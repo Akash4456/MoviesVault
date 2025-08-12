@@ -1,5 +1,5 @@
 # Deployed web app link
-[Link Text] (https://moviesvaultbysrksit.netlify.app/)
+[MoviesVault] (https://moviesvaultbysrksit.netlify.app/)
 
 # 🎬 MovieVault
 
