@@ -1,3 +1,6 @@
+# Deployed web app link
+[Link Text] (https://moviesvaultbysrksit.netlify.app/)
+
 # 🎬 MovieVault
 
 A modern, responsive web application for discovering and managing Kannada movies. Built with React and Vite, MovieVault provides an intuitive interface to browse popular Kannada films and maintain a personal watchlist.
